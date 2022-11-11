@@ -1,7 +1,5 @@
 # README checklist
 
-Derrived from [Daniel D. Beck - Readme Checklist](https://github.com/ddbeck/readme-checklist)
-
 [checklist.md](checklist.md) is a checklist to help you write a README file
 that helps readers feel confident about your project. If you write a README by
 following the checklist, then your readers may more easily identify, evaluate,
@@ -25,3 +23,5 @@ With a few exceptions, the checklist is agnostic about what order things appear
 in your README or even what kind of project you're documenting. Your README may
 cover other topics not covered by this checklist; the checklist covers only
 those topics I found to be essential for README files.
+
+Adapted from [Daniel D. Beck - Readme Checklist](https://github.com/ddbeck/readme-checklist)
