@@ -17,13 +17,13 @@ See [README.md](README.md) to learn how to use this checklist.
   or plain text**.
 
 * Under the project name or linked from it, **add a URL for the project**
-  (such as repository or homepage URL).
+  (usually the source repository).
 
-* Under the project name, **clearly identify the owner or author of the
-  project** (e.g., "By Author McAuthorface" or "Copyright Owner Name 2018").
+* Under the project name, **clearly identify the brand owner of the
+  project**. This should be the identity clients expect to communicate with (e.g., "Covaler" or "TailFin").
 
 
-## Help the reader evaluate the project
+## Help the reader understand the project (even if they have only just joined)
 
 * **Describe the project in terms of what the project does or
   achieves**, not what it's made out of. Focus on *why* not *what*.
